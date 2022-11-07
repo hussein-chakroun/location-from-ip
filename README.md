@@ -6,13 +6,13 @@
 
 # Installation:
        For Linux Users:
-       a) git clone https://github.com/machine1337/iplocation
+       a) git clone https://github.com/hussein-chakroun/location-from-ip.git
        b) chmod +x run.sh
        c) ./run.sh
        
        For Termux Users:
        a) pkg update && pkg upgrade
-       b) git clone https://github.com/machine1337/iplocation
+       b) git clone https://github.com/hussein-chakroun/location-from-ip.git
        c) chmod +x run.sh
        d) ./run.sh
        
